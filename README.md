@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ What is Protea?
+## What is Protea?
 
 **Protea Browser** is a next-generation web browser built for speed, privacy, and intelligence. Named after South Africa's national flower, Protea represents resilience, transformation, and bold new thinking.
 
@@ -28,29 +28,29 @@ This is **Version 1.26 – Fynbos Edition**, featuring our groundbreaking AI int
 
 ---
 
-## 🚀 Features
+## Features
 
 ### ⚡ Blazing Performance
 - Built on Chromium with custom optimizations
 - Instant page loads with predictive prefetching
 - Minimal memory footprint
 
-### 🧠 DNA45 AI Integration
+### DNA45 AI Integration
 - Native AI assistant powered by the Mankind DNA45 Thekisho-Moffat Engine
 - Smart summarization, rewriting, and explanations
 - Context-aware search suggestions
 
-### 🌿 SynthWeb Terraformation
+### SynthWeb Terraformation
 - Transform cluttered websites into clean, readable views
 - Semantic content extraction
 - Focus mode for distraction-free reading
 
-### 🔒 Privacy First
+### Privacy First
 - No telemetry, no tracking
 - Built-in ad blocking
 - Secure by default
 
-### 🎨 Beautiful Design
+### Beautiful Design
 - Stunning dark mode interface
 - Customizable themes
 - Smooth animations throughout
@@ -88,10 +88,10 @@ This is **Version 1.26 – Fynbos Edition**, featuring our groundbreaking AI int
 ### Version 1.26 – Fynbos Edition
 
 **New Features:**
-- 🧠 DNA45 AI integration with multiple model support
-- 🌿 SynthWeb semantic terraformation layer
-- ⚡ 40% faster cold start times
-- 🎨 Redesigned home page with quick links
+-  DNA45 AI integration with multiple model support
+-  SynthWeb semantic terraformation layer
+-  40% faster cold start times
+-  Redesigned home page with quick links
 
 **Improvements:**
 - Enhanced memory management
@@ -118,5 +118,5 @@ We believe the web deserves a browser that respects users, values their time, an
 </p>
 
 <p align="center">
-  <sub>Made with ❤️ in South Africa</sub>
+  <sub>Made with 🩵 in Sandton</sub>
 </p>
