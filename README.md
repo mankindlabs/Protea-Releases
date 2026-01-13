@@ -6,6 +6,7 @@
 
 <p align="center">
   <strong>Fast. Elegant. Brilliantly Smart.</strong>
+  <strong>Africa's Most Advanced AI Web Browser.</strong>
 </p>
 
 <p align="center">
