@@ -6,9 +6,10 @@
 
 <p align="center">
   <strong>Fast. Elegant. Brilliantly Smart.</strong>
-  <strong>Africa's Most Advanced AI Web Browser.</strong>
 </p>
-
+<p align="center">
+  <strong>Africa's Most Advanced AI Web Browser.</strong>
+</p>  
 <p align="center">
   <a href="#download"><img src="https://img.shields.io/badge/Version-1.26-cyan?style=for-the-badge" alt="Version"></a>
   <a href="#download"><img src="https://img.shields.io/badge/macOS-Sonoma%20%7C%20Tahoe-black?style=for-the-badge&logo=apple" alt="macOS"></a>
