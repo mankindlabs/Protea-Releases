@@ -120,4 +120,5 @@ We believe the users deserves a browser that respects users, values their time, 
 
 <p align="center">
   <sub>Made with 🩵 in Sandton by Mankind Research Labs </sub>
+  <sub>www.mankindresearchlabs.org</sub>
 </p>
