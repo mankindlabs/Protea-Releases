@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="#download"><img src="https://img.shields.io/badge/Version-1.26-cyan?style=for-the-badge" alt="Version"></a>
-  <a href="#download"><img src="https://img.shields.io/badge/macOS-Sonoma%20%7C%20Ventura-black?style=for-the-badge&logo=apple" alt="macOS"></a>
+  <a href="#download"><img src="https://img.shields.io/badge/macOS-Sonoma%20%7C%20Tahoe-black?style=for-the-badge&logo=apple" alt="macOS"></a>
   <a href="#download"><img src="https://img.shields.io/badge/Edition-Fynbos-green?style=for-the-badge" alt="Fynbos Edition"></a>
 </p>
 
 <p align="center">
-  <img src="assets/hero-screenshot.png" alt="Protea Browser Screenshot" width="800">
+  <img src="assets/SCREENSHOT_PROTEA.png" alt="Protea Browser Screenshot" width="800">
 </p>
 
 ---
