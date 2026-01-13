@@ -70,7 +70,7 @@ This is **Version 1.26 – Fynbos Edition**, featuring our groundbreaking AI int
 
 ---
 
-## 🛠 Installation
+## Installation
 
 1. Download the `.dmg` file
 2. Open the disk image
@@ -105,11 +105,10 @@ This is **Version 1.26 – Fynbos Edition**, featuring our groundbreaking AI int
 
 ---
 
-## 🏢 About
+## About
 
-**Protea Browser** is developed by **Mankind Research Labs** in Sandton, South Africa.
-
-We believe the web deserves a browser that respects users, values their time, and enhances their experience with intelligent features.
+**Protea Browser** is Africa's most advanced and well developed Web Browser developed by **Mankind Research Labs** in Sandton, South Africa.
+We believe the users deserves a browser that respects users, values their time, and enhances their experience with intelligent features.
 
 ---
 
@@ -118,5 +117,5 @@ We believe the web deserves a browser that respects users, values their time, an
 </p>
 
 <p align="center">
-  <sub>Made with 🩵 in Sandton</sub>
+  <sub>Made with 🩵 in Sandton by Mankind Research Labs </sub>
 </p>
